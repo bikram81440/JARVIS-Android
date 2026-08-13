@@ -1,7 +1,0 @@
-{
-  "name": "JARVIS",
-  "description": "Personal AI voice assistant inspired by a futuristic JARVIS-style assistant.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
