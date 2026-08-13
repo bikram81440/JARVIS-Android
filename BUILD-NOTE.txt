@@ -1,0 +1,3 @@
+JARVIS rebuilt for GitHub Actions APK generation.
+The workflow uses Gradle 9.3.1 directly, so gradle-wrapper.jar is not required by the CI build.
+Do not put real API keys in this ZIP. Use GitHub Actions Secrets for sensitive keys.
